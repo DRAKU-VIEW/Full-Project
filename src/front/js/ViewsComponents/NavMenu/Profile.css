@@ -1,0 +1,10 @@
+
+.rubbish{
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
+.rubbish:hover{
+    font-size: 30px !important;
+}

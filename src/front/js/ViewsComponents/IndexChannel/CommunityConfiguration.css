@@ -1,0 +1,27 @@
+input[type='radio']:after {
+    background-color: #d1d3d1;
+}
+
+.text-config {
+    font-weight: bold;
+}
+
+.socialMedia {
+    height: 30px;
+    width: 30px;
+}
+.socialMedia:hover {
+    height: 40px;
+    width: 40px;
+}
+
+.SSMM, .SSMM:active, .SSMM:hover {
+    border:none;
+    background: transparent;
+}
+
+.boxxDiv {
+    padding: 6px;
+    float: left;
+    font-size: 16px;
+}

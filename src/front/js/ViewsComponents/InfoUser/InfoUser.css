@@ -1,0 +1,14 @@
+.banner {
+top:auto;
+object-fit:cover;
+width: 100%;
+height: 300px;
+}
+
+.description {
+  font-weight: bold;
+}
+
+.biography {
+    max-width: 60%;
+}

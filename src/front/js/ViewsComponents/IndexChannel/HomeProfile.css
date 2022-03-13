@@ -1,0 +1,15 @@
+.colorBack{
+    background: #F5F5F5;
+}
+
+.statistic {
+    background-color: white;
+    color: #1701C7;
+    font-weight: bold;
+}
+
+.data {
+color: #42006F;
+font-size: 20px;
+font-weight: bold;
+}

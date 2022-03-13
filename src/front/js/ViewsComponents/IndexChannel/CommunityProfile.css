@@ -1,0 +1,18 @@
+.followers {
+    border-radius: 5%;
+    background: #C4C4C4;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.fila {
+    height: 150px;
+}
+
+.follow-title {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}

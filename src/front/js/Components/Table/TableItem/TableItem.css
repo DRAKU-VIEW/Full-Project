@@ -1,0 +1,12 @@
+.trash {
+    padding: 2px;
+    background: none;
+    border: none;
+    font-size: large;
+}
+.trash:hover {
+    font-size: 24px;
+}
+.buttontrash {
+    border-top: none !important;
+}

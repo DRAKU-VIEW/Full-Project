@@ -1,0 +1,29 @@
+.log {
+  margin-right: 1em;
+  margin-left: 1em;
+}
+
+.dropdown-item:hover,
+.dropdown-item:active {
+  background-color: #42006f !important;
+  color: white !important;
+  text-decoration: none;
+  border: none !important;
+}
+
+.linkUser {
+  border: none !important;
+  background: none !important;
+  text-decoration: none !important;
+  padding: 0px !important;
+  margin: 0 !important;
+  text-align: start !important;
+}
+
+.linkUser:active {
+  text-align: center;
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 0px !important;
+  margin: 0 !important;
+}

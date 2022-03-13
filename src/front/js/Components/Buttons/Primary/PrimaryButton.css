@@ -1,0 +1,37 @@
+.primaryB {
+    background-color: white;
+    border: #1701C7 1.5px solid;
+    text-align: start;
+    display: flex;
+    padding: 3px 5px 3px 5px;
+    border-radius: 50px;
+    color: #8B8B8B;
+}
+
+.primaryB-disabled {
+    border: #7B7B7B 1.5px solid;
+    background-color: white;
+    text-align: start;
+    display: flex;
+    padding: 3px 5px 3px 5px;
+    border-radius: 12px;
+    color: #8B8B8B;
+    display: none;
+}
+
+.primaryB:active, .primaryB:focus {
+    border: #42006F 1.5px solid;
+    color: black;
+
+}
+
+.primaryB:hover {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.301);
+    border: #42006F 1.5px solid;
+    color: black;
+}
+.icoon{
+    align-self: center;
+    background: white;
+    color: #FFD22D;
+}

@@ -1,0 +1,29 @@
+.tertiary{
+    background: #FFFFFF !important;
+    box-sizing: border-box !important;
+    outline: none !important;
+}
+
+.boxxDiv{
+    margin: 0;
+    border: none;
+    border-radius: 50px;
+    border: 1px solid #000000 !important;
+    background: #FFFFFF;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+}
+.settingInput{
+    padding: 2px 10px 0 10px;
+}
+
+.btn-check:focus + .btn, .btn:focus {
+    box-shadow: none !important;
+}
+
+.eye{
+    border: none;
+    background: #fff;
+    outline: none;
+}

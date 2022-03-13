@@ -1,0 +1,12 @@
+.secondary-in{
+    background: #FFFFFF !important;
+    border: 1px solid #000000 !important;
+    box-sizing: border-box !important;
+    border-radius: 50px !important;
+    color: rgb(66, 0, 111) !important;
+    outline: none !important;
+}
+
+.btn-check:focus + .btn, .btn:focus {
+    box-shadow: none !important;
+}

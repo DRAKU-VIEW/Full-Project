@@ -1,0 +1,41 @@
+.bg-categories{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.categories{
+    border-radius: 12px;
+    background: white;
+    color: #1701C7;
+    padding: 12px;
+    font-size: 18px;
+    text-align: center;
+    border:none;
+    width: 105px;
+    height: 105px;
+    margin: 3px;
+    text-decoration: none !important;
+}
+
+.categories:hover {
+    border: #42006F solid 1.5px;
+    color: #42006F;
+}
+
+
+.active {
+    border: #1701C7 solid 1.5px; 
+    border-radius: 12px;
+    background: white;
+    color: #1701C7;
+    padding: 12px;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.symbol {
+    font-size:x-large;
+    text-align: center;
+    border: none;
+    color: black;
+}

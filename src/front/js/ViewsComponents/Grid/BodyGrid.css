@@ -1,0 +1,41 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+.boxGrid {
+  background: #c4c4c4;
+  border: 1px solid black;
+  height: 200px;
+  width: 100%;
+}
+
+/* @media (max-width: 576px) {
+  .flamita {
+    max-width: 80%;
+    margin: auto;
+  }
+}
+@media (max-width: 768px) {
+  .flamita {
+    max-width: 80%;
+    margin: auto;
+  }
+}
+@media (max-width: 992px) {
+  .flamita {
+    max-width: 80%;
+    margin: auto;
+  }
+}
+@media (max-width: 1200px) {
+  .flamita {
+    max-width: 80%;
+    margin: auto;
+  }
+}
+@media (max-width: 1400px) {
+  .flamita {
+    max-width: 80%;
+    margin: auto;
+  }
+} */

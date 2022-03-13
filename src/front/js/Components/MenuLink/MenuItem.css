@@ -1,0 +1,33 @@
+.bg-menu{
+    width: 150px;
+    margin-top: calc((100vh / 6 - 24px)/2);
+    margin-bottom: calc((100vh / 6 - 24px)/2);
+
+}
+.menu{
+    background: white !important;
+    outline: none;
+    color: black;
+    text-decoration: none !important;
+    text-align: center;
+    display: block;
+    width: 100% !important;
+    height: 100%;
+}
+.menu:hover{
+    background: rgba(66, 0, 111, 0.7) !important;
+    color: white !important;
+    outline: none;
+}
+.icon-menu{
+    background: transparent !important;
+    margin-right: 4px;
+}
+.activee{
+    background: rgba(66, 0, 111, 0.7) !important;
+    color: white !important;
+    outline: none;
+    display: block;
+    width: 100% !important;
+    height: 100%;
+}

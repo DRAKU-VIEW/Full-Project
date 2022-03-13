@@ -1,0 +1,57 @@
+.sidebar-rigth {
+  margin: 0;
+  padding: 0;
+  width: 270px;
+  background-color: white;
+  float: right;
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+  height: 93vh;
+  border: 1px solid rgba(0, 0, 0, 0.479);
+  border-radius: 3px;
+  flex-flow: nowrap column;
+}
+
+.pabajo {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+}
+
+.video {
+  width: calc(100% - 270px);
+  height: auto;
+}
+
+.ivdieo {
+  width: 100%;
+  height: 60vh;
+}
+.buttonHeart {
+  outline: none !important;
+  border: none !important;
+  background: transparent !important;
+}
+.iconHeart {
+  width: 30px;
+  height: 30px;
+  background: rgba(66, 0, 111, 0.73);
+  border-radius: 100%;
+  outline: none !important;
+  border: none !important;
+}
+.iconHear {
+  background: transparent;
+  outline: none !important;
+  color: white;
+}
+.iconHear:hover {
+  font-size: 20px;
+  font-weight: bold;
+}
+.text-color {
+  color: red !important;
+  font-weight: bold !important;
+}

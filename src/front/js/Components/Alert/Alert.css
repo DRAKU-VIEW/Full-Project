@@ -1,0 +1,38 @@
+.divAlert{
+    display: flex;
+    justify-content: center;
+}
+.novisi{
+    visibility: hidden;
+}
+.alert {
+    width: 50%;
+    font-weight: bold;
+    text-align: center;
+    color: #1701C7;
+    padding: 25px 0 25px 0 !important;
+    background: white !important;
+    margin-bottom: 15px;
+  }
+  .alertNo{
+    text-decoration: none !important;
+  }
+  /* The close button */
+  .spanLetter{
+    color:#42006F;
+    background: white;
+  }
+  .alertLetter{
+      background: white;
+      padding-bottom: 25px;
+  }
+  .alertButton{
+    padding-top: 25px;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    background: white;
+
+  }

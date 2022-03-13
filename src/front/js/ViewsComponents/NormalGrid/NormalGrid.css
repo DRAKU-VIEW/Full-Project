@@ -1,0 +1,23 @@
+.flex-div {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap row;
+}
+.normalBoxGrid {
+  background: #c4c4c4;
+  border: 1px solid black;
+  height: 150px;
+  width: 250px;
+}
+.text-div {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0 0 0;
+}
+.centerEgg {
+  display: flex !important;
+  justify-content: center !important;
+  margin: auto;
+  margin-top: 10px !important;
+  width: 50% !important;
+}

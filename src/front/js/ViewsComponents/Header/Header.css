@@ -1,0 +1,38 @@
+.headere {
+  width: 100%;
+  background-color: white !important;
+}
+.category {
+  font-size: 1.1em !important;
+}
+.DRAKUsLogo:hover {
+  width: 50px;
+}
+.logo {
+  border: none !important;
+}
+.navClas {
+  outline: none !important;
+  border: none !important;
+}
+.posi {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 999;
+}
+.buttonplus {
+  border-radius: 100px !important;
+  background: transparent !important;
+  border: 1px #1701c7 solid !important;
+  color: #1701c7;
+  outline: none !important;
+}
+.buttonplus:hover {
+  border: 1px #42006f solid !important;
+  color: #42006f;
+  background: #f5f5f5 !important;
+}
